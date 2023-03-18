@@ -6,7 +6,9 @@ GroupChat is a real-time messaging app that allows users to create groups and ch
 
 - User authentication using email and password
 - Create and join groups
+- Search group and join them
 - Send and receive real-time messages
+- available on across all platform
 
 
 ## Getting Started
