@@ -13,7 +13,7 @@ GroupChat is a real-time messaging app that allows users to create groups and ch
 
 To get started with GroupChat, you need to have Flutter and Firebase installed on your system. Once you have those installed, you can clone this repository and run the app on your device or emulator.
 
-$ git clone https://github.com/your-username/groupchat.git
+$ git clone https://github.com/Atharvdhup/groupchat.git
 $ cd groupchat
 $ flutter run
 
